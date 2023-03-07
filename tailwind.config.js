@@ -10,7 +10,8 @@ module.exports = {
     colors: {
       'almost-white' : 'hsl(0, 0%, 98%)',
       'medium-gray': 'hsl(0, 0%, 41%)',
-      'almost-black': 'hsl(0, 0%, 8%)'
+      'almost-black': 'hsl(0, 0%, 8%)',
+      'transparent': 'hsla(0, 0%, 8%, 0.6)'
     },
     extend: {},
   },
